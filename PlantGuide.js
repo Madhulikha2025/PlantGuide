@@ -3,7 +3,21 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"PlantGuide_atlas_1", frames: [[1712,345,279,118],[1828,120,183,118],[1502,465,382,118],[1678,0,364,118],[577,585,364,118],[943,585,182,118],[902,225,924,118],[0,477,575,118],[902,465,598,118],[902,345,808,118],[0,0,1676,223],[1127,585,180,118],[1309,585,180,118],[1491,585,180,118],[1673,585,180,118],[1855,585,180,118],[0,597,180,118],[182,597,180,118],[364,597,180,118],[546,705,180,118],[728,705,180,118],[910,705,180,118],[1092,705,180,118],[1274,705,180,118],[1456,705,180,118],[1638,705,180,118],[0,225,900,250]]}
+		{name:"PlantGuide_atlas_1", frames: [[1082,1092,279,118],[1681,492,183,118],[1082,732,382,118],[1082,852,364,118],[1082,972,364,118],[1659,612,182,118],[1082,252,924,118],[1082,612,575,118],[1082,492,597,118],[1082,372,808,118],[0,1802,1676,223],[1466,732,180,118],[1448,852,180,118],[1082,1212,180,118],[1648,732,180,118],[1448,972,180,118],[1363,1092,180,118],[1630,852,180,118],[1082,1332,180,118],[1264,1212,180,118],[1630,972,180,118],[1545,1092,180,118],[1082,1452,180,118],[1264,1332,180,118],[1446,1212,180,118],[1082,1572,180,118],[0,0,1080,1800],[1082,0,900,250]]},
+		{name:"PlantGuide_atlas_2", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_3", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_4", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_5", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_6", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_7", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_8", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_9", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_10", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_11", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_12", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_13", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_14", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_15", frames: [[0,0,1080,1800]]}
 ];
 
 
@@ -210,98 +224,113 @@ lib.ssMetadata = [
 
 
 (lib._00 = function() {
-	this.initialize(img._00);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_15"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._01 = function() {
-	this.initialize(img._01);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_14"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._02 = function() {
-	this.initialize(img._02);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_13"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._03 = function() {
-	this.initialize(img._03);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_12"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._04 = function() {
-	this.initialize(img._04);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_11"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._05 = function() {
-	this.initialize(img._05);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_10"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._06 = function() {
-	this.initialize(img._06);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_9"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._07 = function() {
-	this.initialize(img._07);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_8"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._08 = function() {
-	this.initialize(img._08);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_7"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._09 = function() {
-	this.initialize(img._09);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_6"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._10 = function() {
-	this.initialize(img._10);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_5"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._11 = function() {
-	this.initialize(img._11);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_4"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._12 = function() {
-	this.initialize(img._12);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_3"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._13 = function() {
-	this.initialize(img._13);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_2"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib._14 = function() {
-	this.initialize(img._14);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,4500,7500);
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(26);
+}).prototype = p = new cjs.Sprite();
+
 
 
 (lib.Button = function() {
 	this.initialize(ss["PlantGuide_atlas_1"]);
-	this.gotoAndStop(26);
+	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1530,7 +1559,6 @@ if (reversed == null) { reversed = false; }
 
 	// Pages
 	this.instance_17 = new lib._01();
-	this.instance_17.setTransform(0,0,0.24,0.24);
 
 	this.Download = new lib.Download();
 	this.Download.name = "Download";
@@ -1566,46 +1594,32 @@ if (reversed == null) { reversed = false; }
 	this.instance_23.setTransform(134.25,139.35,0.5,0.5);
 
 	this.instance_24 = new lib._00();
-	this.instance_24.setTransform(0,0,0.24,0.24);
 
 	this.instance_25 = new lib._02();
-	this.instance_25.setTransform(0,0,0.24,0.24);
 
 	this.instance_26 = new lib._03();
-	this.instance_26.setTransform(0,0,0.24,0.24);
 
 	this.instance_27 = new lib._04();
-	this.instance_27.setTransform(0,0,0.24,0.24);
 
 	this.instance_28 = new lib._05();
-	this.instance_28.setTransform(0,0,0.24,0.24);
 
 	this.instance_29 = new lib._06();
-	this.instance_29.setTransform(0,0,0.24,0.24);
 
 	this.instance_30 = new lib._07();
-	this.instance_30.setTransform(0,0,0.24,0.24);
 
 	this.instance_31 = new lib._08();
-	this.instance_31.setTransform(0,0,0.24,0.24);
 
 	this.instance_32 = new lib._09();
-	this.instance_32.setTransform(0,0,0.24,0.24);
 
 	this.instance_33 = new lib._10();
-	this.instance_33.setTransform(0,0,0.24,0.24);
 
 	this.instance_34 = new lib._11();
-	this.instance_34.setTransform(0,0,0.24,0.24);
 
 	this.instance_35 = new lib._12();
-	this.instance_35.setTransform(0,0,0.24,0.24);
 
 	this.instance_36 = new lib._13();
-	this.instance_36.setTransform(0,0,0.24,0.24);
 
 	this.instance_37 = new lib._14();
-	this.instance_37.setTransform(0,0,0.24,0.24);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_17}]}).to({state:[{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.Preface},{t:this.Chapter1},{t:this.instance_18},{t:this.Download}]},1).to({state:[{t:this.instance_25}]},1).to({state:[{t:this.instance_26}]},1).to({state:[{t:this.instance_27}]},1).to({state:[{t:this.instance_28}]},1).to({state:[{t:this.instance_29}]},1).to({state:[{t:this.instance_30}]},1).to({state:[{t:this.instance_31}]},1).to({state:[{t:this.instance_32}]},1).to({state:[{t:this.instance_33}]},1).to({state:[{t:this.instance_34}]},1).to({state:[{t:this.instance_35}]},1).to({state:[{t:this.instance_36}]},1).to({state:[{t:this.instance_37}]},1).wait(1));
 	this.instance_18.addEventListener("tick", AdobeAn.handleFilterCache);
@@ -1623,22 +1637,21 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/_00.jpg", id:"_00"},
-		{src:"images/_01.jpg", id:"_01"},
-		{src:"images/_02.jpg", id:"_02"},
-		{src:"images/_03.jpg", id:"_03"},
-		{src:"images/_04.jpg", id:"_04"},
-		{src:"images/_05.jpg", id:"_05"},
-		{src:"images/_06.jpg", id:"_06"},
-		{src:"images/_07.jpg", id:"_07"},
-		{src:"images/_08.jpg", id:"_08"},
-		{src:"images/_09.jpg", id:"_09"},
-		{src:"images/_10.jpg", id:"_10"},
-		{src:"images/_11.jpg", id:"_11"},
-		{src:"images/_12.jpg", id:"_12"},
-		{src:"images/_13.jpg", id:"_13"},
-		{src:"images/_14.jpg", id:"_14"},
-		{src:"images/PlantGuide_atlas_1.png", id:"PlantGuide_atlas_1"}
+		{src:"images/PlantGuide_atlas_1.png", id:"PlantGuide_atlas_1"},
+		{src:"images/PlantGuide_atlas_2.png", id:"PlantGuide_atlas_2"},
+		{src:"images/PlantGuide_atlas_3.png", id:"PlantGuide_atlas_3"},
+		{src:"images/PlantGuide_atlas_4.png", id:"PlantGuide_atlas_4"},
+		{src:"images/PlantGuide_atlas_5.png", id:"PlantGuide_atlas_5"},
+		{src:"images/PlantGuide_atlas_6.png", id:"PlantGuide_atlas_6"},
+		{src:"images/PlantGuide_atlas_7.png", id:"PlantGuide_atlas_7"},
+		{src:"images/PlantGuide_atlas_8.png", id:"PlantGuide_atlas_8"},
+		{src:"images/PlantGuide_atlas_9.png", id:"PlantGuide_atlas_9"},
+		{src:"images/PlantGuide_atlas_10.png", id:"PlantGuide_atlas_10"},
+		{src:"images/PlantGuide_atlas_11.png", id:"PlantGuide_atlas_11"},
+		{src:"images/PlantGuide_atlas_12.png", id:"PlantGuide_atlas_12"},
+		{src:"images/PlantGuide_atlas_13.png", id:"PlantGuide_atlas_13"},
+		{src:"images/PlantGuide_atlas_14.png", id:"PlantGuide_atlas_14"},
+		{src:"images/PlantGuide_atlas_15.png", id:"PlantGuide_atlas_15"}
 	],
 	preloads: []
 };
