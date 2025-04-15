@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"PlantGuide_atlas_1", frames: [[0,0,1080,1800]]},
+		{name:"PlantGuide_atlas_1", frames: [[1082,1092,279,118],[1682,492,183,118],[1082,732,382,118],[1082,852,364,118],[1082,972,364,118],[1659,612,182,118],[1466,732,180,118],[1448,852,180,118],[1082,1212,180,118],[1648,732,180,118],[1448,972,180,118],[1363,1092,180,118],[1630,852,180,118],[1082,1332,180,118],[1264,1212,180,118],[1630,972,180,118],[1545,1092,180,118],[1082,1452,180,118],[1264,1332,180,118],[1082,252,924,118],[1082,612,575,118],[1082,492,598,118],[1082,372,808,118],[0,1802,1676,223],[1446,1212,180,118],[1082,1572,180,118],[0,0,1080,1800],[1082,0,900,250]]},
 		{name:"PlantGuide_atlas_2", frames: [[0,0,1080,1800]]},
 		{name:"PlantGuide_atlas_3", frames: [[0,0,1080,1800]]},
 		{name:"PlantGuide_atlas_4", frames: [[0,0,1080,1800]]},
@@ -17,7 +17,7 @@ lib.ssMetadata = [
 		{name:"PlantGuide_atlas_12", frames: [[0,0,1080,1800]]},
 		{name:"PlantGuide_atlas_13", frames: [[0,0,1080,1800]]},
 		{name:"PlantGuide_atlas_14", frames: [[0,0,1080,1800]]},
-		{name:"PlantGuide_atlas_15", frames: [[1082,1092,279,118],[1682,492,183,118],[1082,732,382,118],[1082,852,364,118],[1082,972,364,118],[1659,612,182,118],[1466,732,180,118],[1448,852,180,118],[1082,1212,180,118],[1648,732,180,118],[1448,972,180,118],[1363,1092,180,118],[1630,852,180,118],[1082,1332,180,118],[1264,1212,180,118],[1630,972,180,118],[1545,1092,180,118],[1082,1452,180,118],[1264,1332,180,118],[1082,252,924,118],[1082,612,575,118],[1082,492,598,118],[1082,372,808,118],[0,1802,1676,223],[1446,1212,180,118],[1082,1572,180,118],[0,0,1080,1800],[1082,0,900,250]]}
+		{name:"PlantGuide_atlas_15", frames: [[0,0,1080,1800]]}
 ];
 
 
@@ -42,231 +42,231 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_26 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_25 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_24 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_23 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(3);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_22 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_21 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(5);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_20 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(6);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_19 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(7);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_18 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(8);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_17 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(9);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_16 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(10);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_15 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(11);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_14 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(12);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_13 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(13);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_12 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(14);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_11 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(15);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_10 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(16);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_9 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(17);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_8 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(18);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_7 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(19);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_6 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(20);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_5 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(21);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_4 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(22);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_3 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(23);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_2 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(24);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_1 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
-	this.gotoAndStop(25);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._00 = function() {
 	this.initialize(ss["PlantGuide_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.CachedBmp_25 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_24 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_23 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_22 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_21 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(5);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_20 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(6);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_19 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(7);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_18 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(8);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_17 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(9);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_16 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(10);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_15 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(11);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_14 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(12);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_13 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(13);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_12 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(14);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_11 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(15);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_10 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(16);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_9 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(17);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_8 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(18);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_7 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(19);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_6 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(20);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_5 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(21);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_4 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(22);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_3 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(23);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_2 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(24);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_1 = function() {
+	this.initialize(ss["PlantGuide_atlas_1"]);
+	this.gotoAndStop(25);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib._00 = function() {
+	this.initialize(ss["PlantGuide_atlas_15"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib._01 = function() {
-	this.initialize(ss["PlantGuide_atlas_2"]);
+	this.initialize(ss["PlantGuide_atlas_14"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._02 = function() {
-	this.initialize(ss["PlantGuide_atlas_3"]);
+	this.initialize(ss["PlantGuide_atlas_13"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._03 = function() {
-	this.initialize(ss["PlantGuide_atlas_4"]);
+	this.initialize(ss["PlantGuide_atlas_12"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._04 = function() {
-	this.initialize(ss["PlantGuide_atlas_5"]);
+	this.initialize(ss["PlantGuide_atlas_11"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._05 = function() {
-	this.initialize(ss["PlantGuide_atlas_6"]);
+	this.initialize(ss["PlantGuide_atlas_10"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._06 = function() {
-	this.initialize(ss["PlantGuide_atlas_7"]);
+	this.initialize(ss["PlantGuide_atlas_9"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -280,56 +280,56 @@ lib.ssMetadata = [
 
 
 (lib._08 = function() {
-	this.initialize(ss["PlantGuide_atlas_9"]);
+	this.initialize(ss["PlantGuide_atlas_7"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._09 = function() {
-	this.initialize(ss["PlantGuide_atlas_10"]);
+	this.initialize(ss["PlantGuide_atlas_6"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._10 = function() {
-	this.initialize(ss["PlantGuide_atlas_11"]);
+	this.initialize(ss["PlantGuide_atlas_5"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._11 = function() {
-	this.initialize(ss["PlantGuide_atlas_12"]);
+	this.initialize(ss["PlantGuide_atlas_4"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._12 = function() {
-	this.initialize(ss["PlantGuide_atlas_13"]);
+	this.initialize(ss["PlantGuide_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._13 = function() {
-	this.initialize(ss["PlantGuide_atlas_14"]);
+	this.initialize(ss["PlantGuide_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._14 = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
+	this.initialize(ss["PlantGuide_atlas_1"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Button = function() {
-	this.initialize(ss["PlantGuide_atlas_15"]);
+	this.initialize(ss["PlantGuide_atlas_1"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
@@ -1085,7 +1085,7 @@ if (reversed == null) { reversed = false; }
 		this.Download.addEventListener("click", fl_ClickToGoToWebPage);
 		
 		function fl_ClickToGoToWebPage() {
-			window.open("http://www.adobe.com", "_blank");
+			window.open("https://madhulikha2025.github.io/PlantGuide/PlantGuide.pdf", "_blank");
 		}
 		
 		
