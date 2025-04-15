@@ -17,7 +17,7 @@ lib.ssMetadata = [
 		{name:"PlantGuide_atlas_12", frames: [[0,0,1080,1800]]},
 		{name:"PlantGuide_atlas_13", frames: [[0,0,1080,1800]]},
 		{name:"PlantGuide_atlas_14", frames: [[0,0,1080,1800]]},
-		{name:"PlantGuide_atlas_15", frames: [[1082,1092,279,118],[1681,492,183,118],[1082,732,382,118],[1082,852,364,118],[1082,972,364,118],[1659,612,182,118],[1082,252,924,118],[1082,612,575,118],[1082,492,597,118],[1082,372,808,118],[0,1802,1676,223],[1466,732,180,118],[1448,852,180,118],[1082,1212,180,118],[1648,732,180,118],[1448,972,180,118],[1363,1092,180,118],[1630,852,180,118],[1082,1332,180,118],[1264,1212,180,118],[1630,972,180,118],[1545,1092,180,118],[1082,1452,180,118],[1264,1332,180,118],[1446,1212,180,118],[1082,1572,180,118],[0,0,1080,1800],[1082,0,900,250]]}
+		{name:"PlantGuide_atlas_15", frames: [[1082,1092,279,118],[1682,492,183,118],[1082,732,382,118],[1082,852,364,118],[1082,972,364,118],[1659,612,182,118],[1466,732,180,118],[1448,852,180,118],[1082,1212,180,118],[1648,732,180,118],[1448,972,180,118],[1363,1092,180,118],[1630,852,180,118],[1082,1332,180,118],[1264,1212,180,118],[1630,972,180,118],[1545,1092,180,118],[1082,1452,180,118],[1264,1332,180,118],[1082,252,924,118],[1082,612,575,118],[1082,492,598,118],[1082,372,808,118],[0,1802,1676,223],[1446,1212,180,118],[1082,1572,180,118],[0,0,1080,1800],[1082,0,900,250]]}
 ];
 
 
@@ -361,6 +361,336 @@ if (reversed == null) { reversed = false; }
 p.nominalBounds = new cjs.Rectangle(0,0,400,111.1);
 
 
+(lib.Page14 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._14();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page13 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._13();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page12 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._12();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page11 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._11();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page10 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._10();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page09 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._09();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page08 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._08();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page07 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._07();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page06 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._06();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page05 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._05();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page04 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._04();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page03 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._03();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page02 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._02();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page01 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._01();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
+(lib.Page00 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.instance = new lib._00();
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,1080,1800);
+
+
 (lib.Next = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
@@ -514,6 +844,35 @@ if (reversed == null) { reversed = false; }
 p.nominalBounds = new cjs.Rectangle(0,0,300,111.1);
 
 
+(lib.Symbol4 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.Main = new lib.Main();
+	this.Main.name = "Main";
+	this.Main.setTransform(150,55.6,1,1,0,0,0,150,55.6);
+	var MainFilter_1 = new cjs.ColorFilter(0.5,0.5,0.5,1,127.5,127.5,127.5,0);
+	this.Main.filters = [MainFilter_1];
+	this.Main.cache(-2,-2,304,115);
+	new cjs.ButtonHelper(this.Main, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get(this.Main).wait(1));
+	this.timeline.addTween(cjs.Tween.get(MainFilter_1).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,300,111.1);
+
+
 (lib.Symbol3 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
@@ -638,7 +997,7 @@ if (reversed == null) { reversed = false; }
 	props.reversed = reversed;
 	cjs.MovieClip.apply(this,[props]);
 
-	this.actionFrames = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14];
+	this.actionFrames = [0,1];
 	// timeline functions:
 	this.frame_0 = function() {
 		/* Stop at This Frame
@@ -647,29 +1006,6 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		this.stop();
-		
-		var frameNumber = 0;
-		
-		var firstframe=0, lastframe=1;
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_7.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_7()
-		{
-			this.gotoAndStop(0);
-		}
-		
 		
 		/* Click to Go to Frame and Stop
 		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
@@ -689,6 +1025,17 @@ if (reversed == null) { reversed = false; }
 		}
 	}
 	this.frame_1 = function() {
+		/* Stop at This Frame
+		The  timeline will stop/pause at the frame where you insert this code.
+		Can also be used to stop/pause the timeline of movieclips.
+		*/
+		
+		this.stop();
+		
+		var frameNumber = 1;
+		
+		var firstframe=0, lastframe=14;
+		
 		/* Click to Go to Frame and Stop
 		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
@@ -703,7 +1050,8 @@ if (reversed == null) { reversed = false; }
 		
 		function fl_ClickToGoToAndStopAtFrame_9()
 		{
-			this.gotoAndStop(3);
+			frameNumber = 2;
+			this.gotoAndStop(2);
 		}
 		
 		
@@ -721,6 +1069,7 @@ if (reversed == null) { reversed = false; }
 		
 		function fl_ClickToGoToAndStopAtFrame_10()
 		{
+			frameNumber = 3;
 			this.gotoAndStop(3);
 		}
 		
@@ -754,6 +1103,7 @@ if (reversed == null) { reversed = false; }
 		
 		function fl_ClickToGoToAndStopAtFrame_11()
 		{
+			frameNumber = 0;
 			this.gotoAndStop(0);
 		}
 		
@@ -772,7 +1122,11 @@ if (reversed == null) { reversed = false; }
 		
 		function fl_ClickToGoToAndStopAtFrame_12()
 		{
-			this.gotoAndStop(2);
+			if(frameNumber < lastframe)
+			{
+				frameNumber++;
+				this.gotoAndStop(frameNumber);
+			}
 		}
 		
 		
@@ -790,839 +1144,178 @@ if (reversed == null) { reversed = false; }
 		
 		function fl_ClickToGoToAndStopAtFrame_13()
 		{
-			this.gotoAndStop(1);
-		}
-	}
-	this.frame_2 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_14.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_14()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_15.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_15()
-		{
-			this.gotoAndStop(3);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_16.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_16()
-		{
-			this.gotoAndStop(1);
-		}
-	}
-	this.frame_3 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_17.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_17()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_18.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_18()
-		{
-			this.gotoAndStop(4);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_19.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_19()
-		{
-			this.gotoAndStop(2);
-		}
-	}
-	this.frame_4 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_20.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_20()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_21.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_21()
-		{
-			this.gotoAndStop(5);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_22.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_22()
-		{
-			this.gotoAndStop(3);
-		}
-	}
-	this.frame_5 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_23.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_23()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_24.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_24()
-		{
-			this.gotoAndStop(6);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_25.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_25()
-		{
-			this.gotoAndStop(4);
-		}
-	}
-	this.frame_6 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_26.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_26()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_27.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_27()
-		{
-			this.gotoAndStop(7);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_28.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_28()
-		{
-			this.gotoAndStop(5);
-		}
-	}
-	this.frame_7 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_29.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_29()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_30.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_30()
-		{
-			this.gotoAndStop(8);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_31.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_31()
-		{
-			this.gotoAndStop(6);
-		}
-	}
-	this.frame_8 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_32.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_32()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_33.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_33()
-		{
-			this.gotoAndStop(9);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_34.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_34()
-		{
-			this.gotoAndStop(7);
-		}
-	}
-	this.frame_9 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_35.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_35()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_36.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_36()
-		{
-			this.gotoAndStop(10);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_37.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_37()
-		{
-			this.gotoAndStop(8);
-		}
-	}
-	this.frame_10 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_38.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_38()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_39.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_39()
-		{
-			this.gotoAndStop(11);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_40.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_40()
-		{
-			this.gotoAndStop(9);
-		}
-	}
-	this.frame_11 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_41.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_41()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_42.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_42()
-		{
-			this.gotoAndStop(12);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_43.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_43()
-		{
-			this.gotoAndStop(10);
-		}
-	}
-	this.frame_12 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_44.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_44()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_45.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_45()
-		{
-			this.gotoAndStop(13);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_46.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_46()
-		{
-			this.gotoAndStop(11);
-		}
-	}
-	this.frame_13 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_47.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_47()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Next.addEventListener("click", fl_ClickToGoToAndStopAtFrame_48.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_48()
-		{
-			this.gotoAndStop(14);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_49.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_49()
-		{
-			this.gotoAndStop(12);
-		}
-	}
-	this.frame_14 = function() {
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Main.addEventListener("click", fl_ClickToGoToAndStopAtFrame_50.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_50()
-		{
-			this.gotoAndStop(0);
-		}
-		
-		
-		/* Click to Go to Frame and Stop
-		Clicking on the specified symbol instance moves the playhead to the specified frame in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		
-		Instructions:
-		1. Replace the number 5 in the code below with the frame number you would like the playhead to move to when the symbol instance is clicked.
-		2.Frame numbers in EaselJS start at 0 instead of 1
-		*/
-		
-		
-		this.Back.addEventListener("click", fl_ClickToGoToAndStopAtFrame_51.bind(this));
-		
-		function fl_ClickToGoToAndStopAtFrame_51()
-		{
-			this.gotoAndStop(13);
+			if(frameNumber > firstframe)
+			{
+				frameNumber--;
+				this.gotoAndStop(frameNumber);
+			}
 		}
 	}
 
 	// actions tween:
-	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1).call(this.frame_1).wait(1).call(this.frame_2).wait(1).call(this.frame_3).wait(1).call(this.frame_4).wait(1).call(this.frame_5).wait(1).call(this.frame_6).wait(1).call(this.frame_7).wait(1).call(this.frame_8).wait(1).call(this.frame_9).wait(1).call(this.frame_10).wait(1).call(this.frame_11).wait(1).call(this.frame_12).wait(1).call(this.frame_13).wait(1).call(this.frame_14).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1).call(this.frame_1).wait(14));
 
 	// Buttons
+	this.instance = new lib.Symbol4("synched",0);
+	this.instance.setTransform(540,1707.6,1,1,0,0,0,150,55.6);
+
 	this.FNext = new lib.FNext();
 	this.FNext.name = "FNext";
 	this.FNext.setTransform(908,1707.6,1,1,0,0,0,150,55.6);
 	new cjs.ButtonHelper(this.FNext, 0, 1, 1);
 
-	this.instance = new lib.Symbol1("synched",0);
-	this.instance.setTransform(171,1707.6,1,1,0,0,0,150,55.6);
+	this.instance_1 = new lib.Symbol1("synched",0);
+	this.instance_1.setTransform(171,1707.6,1,1,0,0,0,150,55.6);
 
-	this.Main = new lib.Main();
-	this.Main.name = "Main";
-	this.Main.setTransform(540,1707.6,1,1,0,0,0,150,55.6);
-	new cjs.ButtonHelper(this.Main, 0, 1, 1);
+	this.instance_2 = new lib.CachedBmp_1();
+	this.instance_2.setTransform(862.55,1665.2,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_1();
-	this.instance_1.setTransform(862.55,1665.2,0.5,0.5);
+	this.Download = new lib.Download();
+	this.Download.name = "Download";
+	this.Download.setTransform(817.15,1315.1,1,1,0,0,0,200,55.6);
+	new cjs.ButtonHelper(this.Download, 0, 1, 1);
+
+	this.instance_3 = new lib.Symbol3("synched",0);
+	this.instance_3.setTransform(320.15,791.1,1,1,0,0,0,200,55.6);
+
+	this.Chapter1 = new lib.Chapter1();
+	this.Chapter1.name = "Chapter1";
+	this.Chapter1.setTransform(320.15,649.1,1,1,0,0,0,200,55.6);
+	new cjs.ButtonHelper(this.Chapter1, 0, 1, 1);
+
+	this.Preface = new lib.Preface();
+	this.Preface.name = "Preface";
+	this.Preface.setTransform(320.15,507.1,1,1,0,0,0,200,55.6);
+	new cjs.ButtonHelper(this.Preface, 0, 1, 1);
+
+	this.instance_4 = new lib.CachedBmp_7();
+	this.instance_4.setTransform(107.6,1273.4,0.5,0.5);
+
+	this.instance_5 = new lib.CachedBmp_6();
+	this.instance_5.setTransform(547.45,748.8,0.5,0.5);
+
+	this.instance_6 = new lib.CachedBmp_5();
+	this.instance_6.setTransform(547.45,605.6,0.5,0.5);
+
+	this.instance_7 = new lib.CachedBmp_4();
+	this.instance_7.setTransform(547.45,467.7,0.5,0.5);
+
+	this.instance_8 = new lib.CachedBmp_3();
+	this.instance_8.setTransform(120.4,218.85,0.5,0.5);
 
 	this.Next = new lib.Next();
 	this.Next.name = "Next";
 	this.Next.setTransform(908,1707.6,1,1,0,0,0,150,55.6);
 	new cjs.ButtonHelper(this.Next, 0, 1, 1);
 
+	this.Main = new lib.Main();
+	this.Main.name = "Main";
+	this.Main.setTransform(540,1707.6,1,1,0,0,0,150,55.6);
+	new cjs.ButtonHelper(this.Main, 0, 1, 1);
+
 	this.Back = new lib.Back();
 	this.Back.name = "Back";
 	this.Back.setTransform(171,1707.6,1,1,0,0,0,150,55.6);
 	new cjs.ButtonHelper(this.Back, 0, 1, 1);
 
-	this.instance_2 = new lib.CachedBmp_2();
-	this.instance_2.setTransform(862.55,1665.2,0.5,0.5);
-
-	this.instance_3 = new lib.CachedBmp_3();
-	this.instance_3.setTransform(862.55,1665.2,0.5,0.5);
-
-	this.instance_4 = new lib.CachedBmp_4();
-	this.instance_4.setTransform(862.55,1665.2,0.5,0.5);
-
-	this.instance_5 = new lib.CachedBmp_5();
-	this.instance_5.setTransform(862.55,1665.2,0.5,0.5);
-
-	this.instance_6 = new lib.CachedBmp_6();
-	this.instance_6.setTransform(862.55,1665.2,0.5,0.5);
-
-	this.instance_7 = new lib.CachedBmp_7();
-	this.instance_7.setTransform(862.55,1665.2,0.5,0.5);
-
-	this.instance_8 = new lib.CachedBmp_8();
-	this.instance_8.setTransform(862.55,1665.2,0.5,0.5);
-
-	this.instance_9 = new lib.CachedBmp_9();
+	this.instance_9 = new lib.CachedBmp_2();
 	this.instance_9.setTransform(862.55,1665.2,0.5,0.5);
 
-	this.instance_10 = new lib.CachedBmp_10();
+	this.instance_10 = new lib.CachedBmp_8();
 	this.instance_10.setTransform(862.55,1665.2,0.5,0.5);
 
-	this.instance_11 = new lib.CachedBmp_11();
+	this.instance_11 = new lib.CachedBmp_9();
 	this.instance_11.setTransform(862.55,1665.2,0.5,0.5);
 
-	this.instance_12 = new lib.CachedBmp_12();
+	this.instance_12 = new lib.CachedBmp_10();
 	this.instance_12.setTransform(862.55,1665.2,0.5,0.5);
 
-	this.instance_13 = new lib.CachedBmp_13();
+	this.instance_13 = new lib.CachedBmp_11();
 	this.instance_13.setTransform(862.55,1665.2,0.5,0.5);
 
-	this.instance_14 = new lib.CachedBmp_14();
+	this.instance_14 = new lib.CachedBmp_12();
 	this.instance_14.setTransform(862.55,1665.2,0.5,0.5);
 
-	this.instance_15 = new lib.Symbol2("synched",0);
-	this.instance_15.setTransform(908,1707.6,1,1,0,0,0,150,55.6);
+	this.instance_15 = new lib.CachedBmp_13();
+	this.instance_15.setTransform(862.55,1665.2,0.5,0.5);
 
-	this.instance_16 = new lib.CachedBmp_15();
+	this.instance_16 = new lib.CachedBmp_14();
 	this.instance_16.setTransform(862.55,1665.2,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.Main},{t:this.instance},{t:this.FNext}]}).to({state:[{t:this.instance_2},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_3},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_4},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_5},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_6},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_7},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_8},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_9},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_10},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_11},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_12},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_13},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_14},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_16},{t:this.Back},{t:this.Main},{t:this.instance_15}]},1).wait(1));
+	this.instance_17 = new lib.CachedBmp_15();
+	this.instance_17.setTransform(862.55,1665.2,0.5,0.5);
+
+	this.instance_18 = new lib.CachedBmp_16();
+	this.instance_18.setTransform(862.55,1665.2,0.5,0.5);
+
+	this.instance_19 = new lib.CachedBmp_17();
+	this.instance_19.setTransform(862.55,1665.2,0.5,0.5);
+
+	this.instance_20 = new lib.CachedBmp_18();
+	this.instance_20.setTransform(862.55,1665.2,0.5,0.5);
+
+	this.instance_21 = new lib.CachedBmp_19();
+	this.instance_21.setTransform(862.55,1665.2,0.5,0.5);
+
+	this.instance_22 = new lib.Symbol2("synched",0);
+	this.instance_22.setTransform(908,1707.6,1,1,0,0,0,150,55.6);
+
+	this.instance_23 = new lib.CachedBmp_20();
+	this.instance_23.setTransform(862.55,1665.2,0.5,0.5);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_2},{t:this.instance_1},{t:this.FNext},{t:this.instance}]}).to({state:[{t:this.instance_9},{t:this.Back},{t:this.Main},{t:this.Next},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.Preface},{t:this.Chapter1},{t:this.instance_3},{t:this.Download}]},1).to({state:[{t:this.instance_10},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_11},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_12},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_13},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_14},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_15},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_16},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_17},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_18},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_19},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_20},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_21},{t:this.Back},{t:this.Main},{t:this.Next}]},1).to({state:[{t:this.instance_23},{t:this.Back},{t:this.Main},{t:this.instance_22}]},1).wait(1));
 	this.instance.addEventListener("tick", AdobeAn.handleFilterCache);
-	this.instance_15.addEventListener("tick", AdobeAn.handleFilterCache);
+	this.instance_1.addEventListener("tick", AdobeAn.handleFilterCache);
+	this.instance_3.addEventListener("tick", AdobeAn.handleFilterCache);
+	this.instance_22.addEventListener("tick", AdobeAn.handleFilterCache);
 
 	// Pages
-	this.instance_17 = new lib._01();
+	this.instance_24 = new lib.Page01("synched",0);
+	this.instance_24.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.Download = new lib.Download();
-	this.Download.name = "Download";
-	this.Download.setTransform(831,1235.6,1,1,0,0,0,200,55.6);
-	new cjs.ButtonHelper(this.Download, 0, 1, 1);
+	this.instance_25 = new lib.Page00("synched",0);
+	this.instance_25.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_18 = new lib.Symbol3("synched",0);
-	this.instance_18.setTransform(334,711.6,1,1,0,0,0,200,55.6);
+	this.instance_26 = new lib.Page02("synched",0);
+	this.instance_26.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.Chapter1 = new lib.Chapter1();
-	this.Chapter1.name = "Chapter1";
-	this.Chapter1.setTransform(334,569.6,1,1,0,0,0,200,55.6);
-	new cjs.ButtonHelper(this.Chapter1, 0, 1, 1);
+	this.instance_27 = new lib.Page03("synched",0);
+	this.instance_27.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.Preface = new lib.Preface();
-	this.Preface.name = "Preface";
-	this.Preface.setTransform(334,427.6,1,1,0,0,0,200,55.6);
-	new cjs.ButtonHelper(this.Preface, 0, 1, 1);
+	this.instance_28 = new lib.Page04("synched",0);
+	this.instance_28.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_19 = new lib.CachedBmp_20();
-	this.instance_19.setTransform(121.45,1193.9,0.5,0.5);
+	this.instance_29 = new lib.Page05("synched",0);
+	this.instance_29.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_20 = new lib.CachedBmp_19();
-	this.instance_20.setTransform(561.3,669.3,0.5,0.5);
+	this.instance_30 = new lib.Page06("synched",0);
+	this.instance_30.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_21 = new lib.CachedBmp_18();
-	this.instance_21.setTransform(561.3,526.1,0.5,0.5);
+	this.instance_31 = new lib.Page07("synched",0);
+	this.instance_31.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_22 = new lib.CachedBmp_17();
-	this.instance_22.setTransform(561.3,388.2,0.5,0.5);
+	this.instance_32 = new lib.Page08("synched",0);
+	this.instance_32.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_23 = new lib.CachedBmp_16();
-	this.instance_23.setTransform(134.25,139.35,0.5,0.5);
+	this.instance_33 = new lib.Page09("synched",0);
+	this.instance_33.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_24 = new lib._00();
+	this.instance_34 = new lib.Page10("synched",0);
+	this.instance_34.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_25 = new lib._02();
+	this.instance_35 = new lib.Page11("synched",0);
+	this.instance_35.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_26 = new lib._03();
+	this.instance_36 = new lib.Page12("synched",0);
+	this.instance_36.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_27 = new lib._04();
+	this.instance_37 = new lib.Page13("synched",0);
+	this.instance_37.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_28 = new lib._05();
+	this.instance_38 = new lib.Page14("synched",0);
+	this.instance_38.setTransform(540,900,1,1,0,0,0,540,900);
 
-	this.instance_29 = new lib._06();
-
-	this.instance_30 = new lib._07();
-
-	this.instance_31 = new lib._08();
-
-	this.instance_32 = new lib._09();
-
-	this.instance_33 = new lib._10();
-
-	this.instance_34 = new lib._11();
-
-	this.instance_35 = new lib._12();
-
-	this.instance_36 = new lib._13();
-
-	this.instance_37 = new lib._14();
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_17}]}).to({state:[{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.Preface},{t:this.Chapter1},{t:this.instance_18},{t:this.Download}]},1).to({state:[{t:this.instance_25}]},1).to({state:[{t:this.instance_26}]},1).to({state:[{t:this.instance_27}]},1).to({state:[{t:this.instance_28}]},1).to({state:[{t:this.instance_29}]},1).to({state:[{t:this.instance_30}]},1).to({state:[{t:this.instance_31}]},1).to({state:[{t:this.instance_32}]},1).to({state:[{t:this.instance_33}]},1).to({state:[{t:this.instance_34}]},1).to({state:[{t:this.instance_35}]},1).to({state:[{t:this.instance_36}]},1).to({state:[{t:this.instance_37}]},1).wait(1));
-	this.instance_18.addEventListener("tick", AdobeAn.handleFilterCache);
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_24}]}).to({state:[{t:this.instance_25}]},1).to({state:[{t:this.instance_26}]},1).to({state:[{t:this.instance_27}]},1).to({state:[{t:this.instance_28}]},1).to({state:[{t:this.instance_29}]},1).to({state:[{t:this.instance_30}]},1).to({state:[{t:this.instance_31}]},1).to({state:[{t:this.instance_32}]},1).to({state:[{t:this.instance_33}]},1).to({state:[{t:this.instance_34}]},1).to({state:[{t:this.instance_35}]},1).to({state:[{t:this.instance_36}]},1).to({state:[{t:this.instance_37}]},1).to({state:[{t:this.instance_38}]},1).wait(1));
 
 	this._renderFirstFrame();
 
